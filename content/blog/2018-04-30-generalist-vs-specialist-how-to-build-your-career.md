@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/tokyo-park.jpg"
-date = "2016-11-05T18:25:22+05:30"
+date = "2018-04-30T18:25:22+05:30"
 title = "Generalist vs. Specialist. How to Build Your Career?"
 weight = 0
 +++

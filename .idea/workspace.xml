@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97f67e8c-6cf7-4166-af54-716b293a624b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/blog/2018-04-30-functional-teams.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/blog/2018-04-30-hidden-patterns-and-agendas.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/blog/2018-04-30-make-your-hobby-your-career.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/blog/2018-04-30-meditation.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/blog/2018-04-30-salarymen.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/content/portfolio/2018-04-30-japan-tokyo-osaka.md" afterPath="$PROJECT_DIR$/content/portfolio/2018-04-30-japan-tokyo-osaka.md" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/2018-04-30-generalist-vs-specialist-how-to-build-your-career.md" afterPath="$PROJECT_DIR$/content/blog/2018-04-30-generalist-vs-specialist-how-to-build-your-career.md" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/2018-04-30-japan-tokyo-osaka.md" afterPath="$PROJECT_DIR$/content/blog/2018-04-30-japan-tokyo-osaka.md" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html" afterPath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/single.html" afterPath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/single.html" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/about/list.html" afterPath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/about/list.html" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/contact/list.html" afterPath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/contact/list.html" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/index.html" afterPath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/index.html" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/bootstrap.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.blue.css" afterPath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.blue.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,43 +30,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tokyo-park.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/img/portfolio/tokyo-park.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-04-30-generalist-vs-specialist-how-to-build-your-career.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/portfolio/2018-04-30-generalist-vs-specialist-how-to-build-your-career.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="44" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="2018-04-30-japan-tokyo-osaka.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/portfolio/2018-04-30-japan-tokyo-osaka.md">
+        <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-japan-tokyo-osaka.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -62,42 +44,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="2018-04-30-meditation.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-meditation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/about/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1545">
-              <caret line="103" column="57" lean-forward="false" selection-start-line="103" selection-start-column="57" selection-end-line="103" selection-end-column="57" />
+            <state relative-caret-position="180">
+              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobile_nav_toggle.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/mobile_nav_toggle.html">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="239">
+              <caret line="29" column="61" lean-forward="false" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html">
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="89" lean-forward="false" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.blue.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.blue.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8790">
-              <caret line="586" column="3" lean-forward="false" selection-start-line="586" selection-start-column="3" selection-end-line="586" selection-end-column="3" />
-              <folding />
+            <state relative-caret-position="240">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding>
+                <element signature="n#a#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +101,6 @@
       <find>&quot;Bitter&quot;</find>
       <find>a:hover</find>
       <find>attribution</find>
-      <find>h3</find>
-      <find>body</find>
       <find>666666</find>
       <find>content-column-con</find>
       <find>body {</find>
@@ -123,10 +108,21 @@
       <find>3333</find>
       <find>box-masonry-text</find>
       <find>pills</find>
+      <find>body</find>
+      <find>h3</find>
+      <find>h1</find>
+      <find>Amiri</find>
+      <find>content-column-content</find>
+      <find>portfolio</find>
+      <find>sidebar-content</find>
+      <find>japan-flower-window</find>
+      <find>masonry-</find>
+      <find>box-mason</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;Bitter&quot;</replace>
       <replace>&quot;Lato&quot;</replace>
+      <replace>old-man-of-storr</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -140,18 +136,30 @@
         <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/attribution.html" />
         <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html" />
         <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/scripts.html" />
-        <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/content/portfolio/work1.md" />
         <option value="$PROJECT_DIR$/content/portfolio/work3.md" />
         <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html" />
-        <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.blue.css" />
         <option value="$PROJECT_DIR$/content/portfolio/2018-04-30-generalist-vs-specialist-how-to-build-your-career.md" />
         <option value="$PROJECT_DIR$/content/portfolio/2018-04-30-photography.md" />
         <option value="$PROJECT_DIR$/content/portfolio/2018-04-30-photography-2.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/content/about/_index.md" />
         <option value="$PROJECT_DIR$/content/portfolio/2018-04-30-japan-tokyo-osaka.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/head.html" />
+        <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/index.html" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/sidebar.html" />
+        <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/single.html" />
+        <option value="$PROJECT_DIR$/content/blog/2018-04-30-japan-tokyo-osaka-2.md" />
+        <option value="$PROJECT_DIR$/content/blog/2018-04-30-generalist-vs-specialist-how-to-build-your-career.md" />
+        <option value="$PROJECT_DIR$/content/blog/2018-04-30-salarymen.md" />
+        <option value="$PROJECT_DIR$/content/blog/2018-04-30-functional-teams.md" />
+        <option value="$PROJECT_DIR$/content/blog/2018-04-30-make-your-hobby-your-career.md" />
+        <option value="$PROJECT_DIR$/content/blog/2018-04-30-hidden-patterns-and-agendas.md" />
+        <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.blue.css" />
+        <option value="$PROJECT_DIR$/content/blog/2018-04-30-japan-tokyo-osaka.md" />
+        <option value="$PROJECT_DIR$/content/blog/2018-04-30-meditation.md" />
+        <option value="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/blog.html" />
       </list>
     </option>
   </component>
@@ -189,6 +197,114 @@
               <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
               <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="archetypes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="_default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="christopherklewes.de" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christopherklewes.de" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -204,122 +320,13 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/blog" />
+      <recent name="$PROJECT_DIR$/content/portfolio" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/img" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/portfolio" />
-    </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/LICENSE</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -348,12 +355,14 @@
       <updated>1525033641094</updated>
       <workItem from="1525033643945" duration="101000" />
       <workItem from="1525033812366" duration="3803000" />
-      <workItem from="1525068979303" duration="310000" />
+      <workItem from="1525068979303" duration="383000" />
+      <workItem from="1525116688571" duration="120000" />
+      <workItem from="1525291110456" duration="4600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4214000" />
+    <option name="totallyTimeSpent" value="9007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="6" />
@@ -361,8 +370,10 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3169182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -374,7 +385,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -389,62 +399,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/mobile_nav_toggle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="89" lean-forward="false" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.blue.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8790">
-          <caret line="586" column="3" lean-forward="true" selection-start-line="586" selection-start-column="3" selection-end-line="586" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/about/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/owl.theme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -494,13 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/attribution.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -512,20 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -577,21 +510,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/portfolio/work3.md" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/about/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/contact/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -608,20 +527,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/scripts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/img/portfolio/a4-paper.jpg" />
     <entry file="file://$PROJECT_DIR$/static/img/portfolio/business-card.jpg" />
     <entry file="file://$PROJECT_DIR$/static/img/portfolio/envelope-brand.jpg" />
@@ -635,7 +540,71 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/portfolio/2018-04-30-photography-2.md" />
+    <entry file="file://$PROJECT_DIR$/content/about/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/mobile_nav_toggle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/scripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/contact/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -643,69 +612,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="89" lean-forward="false" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/portfolio/2018-04-30-photography-2.md" />
-    <entry file="file://$PROJECT_DIR$/config.toml">
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="15">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-hidden-patterns-and-agendas.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-make-your-hobby-your-career.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="66" lean-forward="false" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-functional-teams.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-generalist-vs-specialist-how-to-build-your-career.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-salarymen.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.blue.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8790">
-          <caret line="586" column="3" lean-forward="false" selection-start-line="586" selection-start-column="3" selection-end-line="586" selection-end-column="3" />
+        <state relative-caret-position="-311">
+          <caret line="1011" column="1" lean-forward="true" selection-start-line="1011" selection-start-column="1" selection-end-line="1011" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/about/_index.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-japan-tokyo-osaka.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/portfolio/2018-04-30-generalist-vs-specialist-how-to-build-your-career.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/2018-04-30-meditation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="44" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/portfolio/2018-04-30-japan-tokyo-osaka.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/about/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="103" column="57" lean-forward="false" selection-start-line="103" selection-start-column="57" selection-end-line="103" selection-end-column="57" />
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="29" column="61" lean-forward="false" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="n#a#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
